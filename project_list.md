@@ -33,3 +33,5 @@
 [expense-tracker](https://github.com/hakiKhuva/expense-tracker.git) - cloned into [Alexander S. Oppura's Repository](https://github.com/kayle-56-alex/finals-ipt.git) -[block 2]  
 [URL-Short](https://github.com/ezhil56x/URL-Shortener) - cloned into [TAPAYA-LANCESTHUR- KEITH](https://github.com/Eizo491/URL-Shortener-update/tree/feature/new-update) - [BLOCK 1]  
 [food-flask](https://github.com/janet-dev/food-flask.git) - cloned into [Paul Mendoza's Repository](https://github.com/paulmendoza123/food-flask.git) - [block 2]
+[Air Quality Index Prediction Using Flask Web Application](https://github.com/satishkumarmurugan/AQI-prediction-Using-Flask-Web-App) – cloned into [Kirk John Gabo's Repository](https://github.com/kirkgabz/IT6-FINAL_DRILL) – [Block 3]
+
